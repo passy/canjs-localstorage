@@ -1,0 +1,8 @@
+{
+	"name": "canjs-localstorage",
+	"version": "0.1.0",
+	"main": "./can.localstorage.js",
+	"dependencies": {
+		"canjs": "~1.1.4"
+	}
+}
