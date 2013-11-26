@@ -3,6 +3,6 @@
 	"version": "0.1.0",
 	"main": "./can.localstorage.js",
 	"dependencies": {
-		"canjs": "~1.1.4"
+		"canjs": "~2.0.0"
 	}
 }
